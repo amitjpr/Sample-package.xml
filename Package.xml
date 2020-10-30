@@ -28,7 +28,10 @@ Sample Package.xml:
         <members>*</members>
         <name>ApexTrigger</name>
     </types>
-
+    <types>
+        <members>*</members>
+        <name>AssignmentRules</name>
+    </types>
     <types>
         <members>*</members>
         <name>CustomApplication</name>
