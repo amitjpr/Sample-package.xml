@@ -34,6 +34,10 @@ Sample Package.xml:
     </types>
     <types>
         <members>*</members>
+        <name>AutoResponseRules</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>CustomApplication</name>
     </types>
 
@@ -256,7 +260,7 @@ Sample Package.xml:
 
     <!-- Lightning Component -->
     <types>
-        <members>ComponentName</members>
+        <members>*</members>
         <name>AuraDefinitionBundle</name>
     </types>
 
